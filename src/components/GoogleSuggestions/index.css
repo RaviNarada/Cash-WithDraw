@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.Googgle-home-cont {
+  background-color: white;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.g-logo {
+  width: 450px;
+}
+
+.searchCard {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 0px 1px 1px #bfbfbf;
+  width: 600px;
+  margin-top: 20px;
+}
+
+.search-logo {
+  height: 30px;
+  margin: 5px;
+  margin-buttom: 10px;
+}
+.search-cont {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  color: #bfbfbf;
+}
+.input-box {
+  border: none;
+  margin-left: 0px;
+  font-size: 20px;
+  border-color: white;
+}
